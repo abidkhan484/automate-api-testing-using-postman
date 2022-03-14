@@ -1,6 +1,6 @@
 # Automate API Testing using Postman & Newman
 ## Background
-By utilizing the knowledge, we can do our task easily as well as minimize the repeating tasks. And with automating API testing, we can focus on test cases that are more necessary for developer speed. [A blog in dev.to](https://dev.to/abidkhan484/automate-api-testing-using-postman-newman-2c2p) is describe the intension of the repo.
+By utilizing the knowledge, we can do our task easier as well as minimize the repeating tasks. And with automating API testing, we can focus on test cases that are more necessary for developer speed. [A blog in dev.to](https://dev.to/abidkhan484/automate-api-testing-using-postman-newman-2c2p) is describe the intension of the repo.
 ## Prerequisites
 - [Newman](https://www.npmjs.com/package/newman)
 - [newman-reporter-html](https://www.npmjs.com/package/newman-reporter-html)
